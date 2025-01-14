@@ -4,8 +4,7 @@
 <p align="justify"> Curioso y analítico por naturaleza. 
 Después de una carrera en educación y marketing, seguí mi pasión por el mundo IT. Descubrí en los datos la unión de dos mundos que me gustan. El análisis y la solución de problemas. Me atrapo el poder descifrar lo que dicen los datos y convertirlo en decisiones.
 Actualmente, estoy culminando mi formación en Data Science, un camino en el que he aprendido a dominar herramientas como Python, SQL y Power BI. Las cuales me permiten analizar información, descubrir insights valiosos y proponer soluciones que optimizan procesos y reducen costos.
-Lo que más me motiva es ayudar a personas y organizaciones a responder preguntas importantes (incluso aquellas que aún no se han formulado), generando valor en cada paso del camino. Mi experiencia me ha brindado habilidades clave como liderazgo, trabajo en equipo, resolución de problemas y comunicación efectiva, que pongo al servicio de los proyectos en los que participo.
-Si algo me define, es mi capacidad para adaptarme a cualquier desafío y mi entusiasmo por seguir aprendiendo. Estoy listo para colaborar en roles como analista o científico de datos y contribuir al crecimiento de las personas y empresas con las que trabajo.
+Lo que más me motiva es ayudar a personas y organizaciones a responder preguntas importantes (incluso aquellas que aún no se han formulado), generando valor en cada paso del camino.
 
   </p>
   
