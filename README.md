@@ -3,7 +3,7 @@
 
 <p align="justify"> Curioso y analítico por naturaleza. 
 Después de una carrera en educación y marketing, seguí mi pasión por el mundo IT. Descubrí en los datos la unión de dos mundos que me gustan. El análisis y la solución de problemas. Me atrapo el poder descifrar lo que dicen los datos y convertirlo en decisiones.
-Actualmente, estoy culminando mi formación en Data Science, un camino en el que he aprendido a dominar herramientas como Python, SQL y Power BI. Las cuales me permiten analizar información, descubrir insights valiosos y proponer soluciones que optimizan procesos y reducen costos.
+Recientemente graduado en Data Science, un camino en el que he aprendido a dominar herramientas como Python, SQL y Power BI. Las cuales me permiten analizar información, descubrir insights valiosos y proponer soluciones que optimizan procesos y reducen costos.
 Lo que más me motiva es ayudar a personas y organizaciones a responder preguntas importantes (incluso aquellas que aún no se han formulado), generando valor en cada paso del camino.
 
   </p>
